@@ -1,0 +1,52 @@
+Output of train_test.py :
+
+
+training fisher face classifier
+size of training set is: 304 images
+predicting classification set
+got 91.89189189189189 percent correct!
+training fisher face classifier
+size of training set is: 304 images
+predicting classification set
+got 94.5945945945946 percent correct!
+training fisher face classifier
+size of training set is: 304 images
+predicting classification set
+got 91.89189189189189 percent correct!
+training fisher face classifier
+size of training set is: 304 images
+predicting classification set
+got 95.94594594594595 percent correct!
+training fisher face classifier
+size of training set is: 304 images
+predicting classification set
+got 97.29729729729729 percent correct!
+training fisher face classifier
+size of training set is: 304 images
+predicting classification set
+got 93.24324324324324 percent correct!
+training fisher face classifier
+size of training set is: 304 images
+predicting classification set
+got 97.29729729729729 percent correct!
+training fisher face classifier
+size of training set is: 304 images
+predicting classification set
+got 95.94594594594595 percent correct!
+training fisher face classifier
+size of training set is: 304 images
+predicting classification set
+got 95.94594594594595 percent correct!
+training fisher face classifier
+size of training set is: 304 images
+predicting classification set
+got 95.94594594594595 percent correct!
+
+
+end score: 95.0 percent correct!
+creating recognizer
+Recognizer created
+
+
+
+Output of 
